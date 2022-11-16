@@ -3,7 +3,7 @@ using namespace std;
 
 int main()
 {
-    int a=7;
+    int a = 40;
     cout<<(float)a+1.3<<endl;
     cout<<float(a)+1.3<<endl;//line above can also be typecasted like this
     float b=4.8;
