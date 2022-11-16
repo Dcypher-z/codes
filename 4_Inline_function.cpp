@@ -18,6 +18,6 @@ int main()
     cout<<"The product of a and b is "<<product(a,b)<<endl;
     cout<<"The product of a and b is "<<product(a,b)<<endl;
     cout<<"The product of a and b is "<<product(a,b)<<endl;
-    cout<<"The product of a and b is "<<product(a,b)<<endl;   
+    cout<<"The product of a and b is "<<product(a,b);   
     return 0;
 }
