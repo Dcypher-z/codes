@@ -2,9 +2,9 @@
 using namespace std;
 class emp
 {
-    private:
+    private://Private variables
         int a,b,c;
-    public:
+    public://Public Variables
         int d,e;
         void setData(int a1, int b1, int c1);//functions can be written in class or outside class after declaring them in class
         void getData()
